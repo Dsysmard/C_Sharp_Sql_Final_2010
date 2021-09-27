@@ -1,0 +1,35 @@
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.exe
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.pdb
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\dbImagenes.sdf
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\C_Sharp_Sql_Final.exe
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\C_Sharp_Sql_Final.pdb
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\office.dll
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\bin\Debug\office.xml
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.csprojResolveAssemblyReference.cache
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Form1.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Matriculados.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Buscarprofes.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Form12.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Form14.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Sistema.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Alumnos_add.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Altas_Alumnos.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Modificar_Alumno.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Profesores_add.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Altas_Profesores.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Modificar_Profesor.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Cursos.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.NotifyWindow.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.NotifyWindow2000.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.Properties.Resources.resources
+D:\C_Sharp_Sql_Final\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.csproj.GenerateResource.Cache
+E:\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.exe
+E:\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.pdb
+F:\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.exe
+F:\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.pdb
+F:\Trabajo Final Algoritmos\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.exe
+F:\Trabajo Final Algoritmos\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.pdb
+D:\Sistemas\C# _Sistema Academico 1 - V2010 - Extras\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.exe
+D:\Sistemas\C# _Sistema Academico 1 - V2010 - Extras\C_Sharp_Sql_Final_2010\C_Sharp_Sql_Final\obj\Debug\C_Sharp_Sql_Final.pdb
